@@ -1,3 +1,10 @@
 .idea/
 logs/
 .env
+
+# Clacky-related configuration
+.1024*
+!.1024
+
+# Temporary files
+# Others
